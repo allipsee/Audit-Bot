@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
   <img src="https://cdn.discordapp.com/attachments/572425265066672150/594188482025357322/Audit_Bot.png" align="center">
   <br>
  <br>
