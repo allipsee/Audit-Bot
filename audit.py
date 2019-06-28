@@ -38,6 +38,8 @@ Hello, I'm Audit Bot, I'll help you checking up your server's basic security and
 If you're an administrator, feel free to use `{prefix}help` command to learn my commands. It it highly recommended to use this bot in private channel to prevent eventual vulnerabilities disclosure.
 ***WARNING: THIS BOT DOES NOT CHANGE ANY SETTINGS, IT JUST SHOWS EVENTUAL VULNERABILITIES***
 `________________________________________________________________________________________`
+Github Link: https://github.com/allipsee/Audit-Bot
+`________________________________________________________________________________________`
 `The people are still powerless, but now they're aware.` *Edward Snowden*"""
         await message.channel.send(welcome)
         pass
