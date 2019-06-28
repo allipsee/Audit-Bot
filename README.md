@@ -1,7 +1,6 @@
 <a href="https://github.com/allipsee/Audit-Bot/">	
     <img src="https://api.modmail.tk/badges/instances.svg" alt="Bot instances">	
   </a>
-  Character
   <a href="https://github.com/allipsee/Audit-Bot/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT Lisence ">
   </a>
